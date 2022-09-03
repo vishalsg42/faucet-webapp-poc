@@ -43,6 +43,14 @@ header {
 
       .connect {
         margin-top: 30px;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+
+        img {
+          width: 25px;
+          height: 20px;
+        }
       }
 
       button {
